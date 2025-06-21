@@ -19,6 +19,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "missile"
     },
+    "image5": {
+        "data": "hwQPABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUFVVAAAAAABQVVUAAFBVVVBVVVVVVVVVVVVVVVVVX19VVVVVVVVVX1VVVQUAVV9fVVVVVVVVVVVVVVVVVVBVVVBVVVVVAAAAUFVVAAAAAABQVVUAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "gg"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
